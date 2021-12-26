@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Zinx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on Soon.
-- 📫 Developer
 
-<!---
-ZinxDeveloper/ZinxDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    name: "Ahmed",
+    age: 13,
+    from: "Egypt",
+    Discord: "Zinx#6276",
+    technologies: {
+        backend: ["NodeJS", "express"],
+        database: ["Mysql", "MongoDB"],
+    },
+    languages: ["JavaScript"]
+};
